@@ -32,7 +32,7 @@ https://appstore.lazycat.cloud/#/shop/detail/cloud.lazycat.lightos.entry
 
 ![image.png](https://lzc-playground-1301583638.cos.ap-chengdu.myqcloud.com/guidelines/439/7123a70a-e379-4e64-95f8-bd68c8224f0f.png "image.png")
 
-> 执行`curl https://raw.giteeusercontent.com/longtaipeng/lazycat-script/raw/master/arch-wechat.sh -O` 下载一下配置文件。
+> 执行`curl https://raw.giteeusercontent.com/longtaipeng/lazycat-script/raw/master/script/arch-wechat.sh -O` 下载一下配置文件。
 
 ![image.png](https://lzc-playground-1301583638.cos.ap-chengdu.myqcloud.com/guidelines/439/7c3a1beb-98a0-4129-a891-1571287c1490.png "image.png")
 
